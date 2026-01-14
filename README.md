@@ -39,8 +39,6 @@ Model behavior is analysed using:
 
 SHAP values for global and local explanations
 
-Permutation importance to assess robustness and feature sensitivity
-
 Outcome
 
 The result is a reproducible, interpretable scouting pipeline that mirrors professional decision-making: identifying high-potential players through probabilistic ranking rather than hard classification. The same methodology is designed to be extended to other positions (e.g. midfielders, attackers).
