@@ -15,6 +15,10 @@ Methodology Summary
 Role-specific modelling
 Defenders are split into central and lateral roles, with separate feature spaces and models trained for each role to reflect positional differences.
 
+Midfielders are split into defensive and offensive roles, again with separate feature spaces and models trained for each role to reflect positional differences.
+
+Strikers are left in one group only
+
 Binary target formulation
 The target variable represents upward movement to a higher-tier league in subsequent seasons. The problem is framed as binary classification, but evaluated primarily through ranking metrics.
 
@@ -48,4 +52,4 @@ SHAP values for global and local explanations
 
 Outcome
 
-The result is a reproducible, interpretable scouting pipeline that mirrors professional decision-making: identifying high-potential players through probabilistic ranking rather than hard classification. The same methodology is designed to be extended to other positions (e.g. midfielders, attackers).
+The result is a reproducible, interpretable scouting pipeline that mirrors professional decision-making: identifying high-potential players through probabilistic ranking rather than hard classification.
