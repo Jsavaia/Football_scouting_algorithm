@@ -1,0 +1,21 @@
+rank,Player,Season,Team,Role,Tier_league,pred,proba_1
+1,Yves Bissouma,2017-2018,Lille,DM,1,1,0.9996505
+2,Adrien Rabiot,2018-2019,Paris S-G,RM,1,1,0.9985316
+3,Adrien Rabiot,2017-2018,Paris S-G,RM,1,1,0.99820197
+4,Khéphren Thuram,2021-2022,Nice,CM,1,1,0.9981061
+5,Fabinho,2017-2018,Monaco,CM,1,1,0.99745196
+6,Aurélien Tchouaméni,2021-2022,Monaco,DM,1,1,0.9972662
+7,Tanguy Ndombele,2018-2019,Lyon,CM,1,1,0.9971119
+8,Leandro Paredes,2020-2021,Paris S-G,DM,1,1,0.99588144
+9,Mario Lemina,2021-2022,Nice,DM,1,1,0.9957801
+10,Ibrahim Sangaré,2018-2019,Toulouse,DM,1,1,0.9946061
+11,Valentin Rongier,2021-2022,Marseille,CM,1,1,0.9943861
+12,Marco Verratti,2021-2022,Paris S-G,CM,1,1,0.9916642
+13,Ibrahim Sangaré,2019-2020,Toulouse,DM,1,1,0.9903188
+14,Aurélien Tchouaméni,2020-2021,Monaco,DM,1,1,0.9893757
+15,Renato Sanches,2020-2021,Lille,CM,1,1,0.9876366
+16,Andre-Frank Zambo Anguissa,2017-2018,Marseille,DM,1,1,0.9871093
+17,Leandro Paredes,2021-2022,Paris S-G,DM,1,1,0.9865248
+18,Tanguy Ndombele,2017-2018,2 Teams,CM,1,1,0.9859416
+19,Marco Verratti,2018-2019,Paris S-G,CM,1,1,0.9856237
+20,Marquinhos,2018-2019,Paris S-G,DM,1,1,0.9854667

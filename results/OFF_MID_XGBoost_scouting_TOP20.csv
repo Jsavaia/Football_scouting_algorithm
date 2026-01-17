@@ -1,0 +1,21 @@
+rank,Player,Season,Team,Role,Tier_league,pred,proba_1
+1,Nicolas Pépé,2018-2019,Lille,RW,1,1,0.9939231
+2,Neymar,2018-2019,Paris S-G,LW,1,1,0.9925373
+3,Jonathan Ikone,2019-2020,Lille,RW,1,1,0.98843014
+4,Neymar,2017-2018,Paris S-G,LW,1,1,0.98810345
+5,Nabil Fekir,2018-2019,Lyon,AM,1,1,0.98761207
+6,Julian Draxler,2017-2018,Paris S-G,LW,1,1,0.98283666
+7,Florian Thauvin,2017-2018,Marseille,RW,1,1,0.982508
+8,Florian Thauvin,2018-2019,Marseille,RW,1,1,0.9738754
+9,Giovani Lo Celso,2017-2018,Paris S-G,AM,1,1,0.9705338
+10,Jonathan Ikone,2018-2019,Lille,RW,1,1,0.9684208
+11,Julian Draxler,2018-2019,Paris S-G,LW,1,1,0.9670797
+12,Houssem Aouar,2020-2021,Lyon,AM,1,1,0.96178436
+13,Aleksandr Golovin,2020-2021,Monaco,AM,1,1,0.95570165
+14,Neymar,2020-2021,Paris S-G,LW,1,1,0.95176095
+15,Houssem Aouar,2019-2020,Lyon,AM,1,1,0.9443216
+16,Moussa Diaby,2018-2019,Paris S-G,RW,1,1,0.94072545
+17,Maxwel Cornet,2018-2019,Lyon,LW,1,1,0.9375643
+18,Thomas Lemar,2017-2018,Monaco,AM,1,1,0.9204506
+19,Lucas Paquetá,2020-2021,Lyon,AM,1,1,0.9200724
+20,Houssem Aouar,2018-2019,Lyon,AM,1,1,0.91743
