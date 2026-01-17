@@ -1,7 +1,14 @@
 # Football_scouting_algorithm
-Project Overview – Data-Driven Football Scouting (Defenders)
 
-This project develops a data-driven scouting framework to identify football defenders with high potential for upward career progression. Using historical player-season data, the goal is not to predict outcomes in a traditional classification sense, but to rank players by their likelihood of moving to a higher-tier league, replicating a real-world scouting workflow.
+## Project Overview – Data-Driven Football Scouting
+
+This project develops a data-driven scouting framework to identify football players
+with high potential for upward career progression.
+
+Using historical player-season data across multiple roles (defenders, midfielders,
+and attackers), the objective is not traditional classification but ranking players
+by their likelihood of progressing to a higher-tier league, replicating a real-world
+scouting workflow.
 
 Methodology Summary
 
